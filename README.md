@@ -17,4 +17,4 @@ A gallery-based project built as part of the freeCodeCamp curriculum. It allows 
 - Working with events
 
 ## 🔗 Live Demo
-[View Project](YOUR-LIVE-LINK)
+[View Project](https://shaiksajida124.github.io/lightbox-viewer/)
